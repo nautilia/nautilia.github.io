@@ -1,4 +1,5 @@
-[
+{
+    "data": [
  {
    "EUROCOPA": 1980,
    "POSICION": "Delantero",
@@ -891,3 +892,4 @@
    "URL FOTO": ""
  }
 ]
+ }
