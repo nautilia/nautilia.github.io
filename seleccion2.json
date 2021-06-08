@@ -1,8 +1,7 @@
 {
 
-
-
-    "data": {
+    "data":[
+{
    "Eurocopa": 1996,
    "Posicion": "Defensa",
    "Nombre": "Abelardo",
@@ -2217,3 +2216,4 @@
    "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/488.-zubizarreta-1985.jpg"
  }
 ]
+ }
