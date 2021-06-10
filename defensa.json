@@ -1,0 +1,741 @@
+{
+"data": [
+ {
+   "Eurocopa": 1964,
+   "Posicion": "Defensa",
+   "Nombre": "Calleja",
+   "Dorsal": "4",
+   "Equipo": "Atlético",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/282.-calleja-1961.jpg"
+ },
+ {
+   "Eurocopa": 1964,
+   "Posicion": "Defensa",
+   "Nombre": "Gallego",
+   "Dorsal": "nd",
+   "Equipo": "Sevilla",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/322.-fancisco-gallego-1966.jpg"
+ },
+ {
+   "Eurocopa": 1964,
+   "Posicion": "Defensa",
+   "Nombre": "Olivella",
+   "Dorsal": "3",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/257.-olivella-1957.jpg"
+ },
+ {
+   "Eurocopa": 1964,
+   "Posicion": "Defensa",
+   "Nombre": "Reija",
+   "Dorsal": "nd",
+   "Equipo": "Zaragoza",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/293.-reija-1962.jpg"
+ },
+ {
+   "Eurocopa": 1964,
+   "Posicion": "Defensa",
+   "Nombre": "Rivilla",
+   "Dorsal": "2",
+   "Equipo": "Atlético",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/274.-rivilla-1960.jpg"
+ },
+ {
+   "Eurocopa": 1964,
+   "Posicion": "Defensa",
+   "Nombre": "Zoco",
+   "Dorsal": "5",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/285.-zoco-1961.jpg"
+ },
+ {
+   "Eurocopa": 1980,
+   "Posicion": "Defensa",
+   "Nombre": "Alesanco",
+   "Dorsal": "2",
+   "Equipo": "Athletic",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/437.-alesanco-1978_0.jpg"
+ },
+ {
+   "Eurocopa": 1980,
+   "Posicion": "Defensa",
+   "Nombre": "Cundi",
+   "Dorsal": "19",
+   "Equipo": "Sporting",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/433.-cundi-1978.jpg"
+ },
+ {
+   "Eurocopa": 1980,
+   "Posicion": "Defensa",
+   "Nombre": "Gordillo",
+   "Dorsal": "14",
+   "Equipo": "Betis",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/429.-gordillo-1978.jpg"
+ },
+ {
+   "Eurocopa": 1980,
+   "Posicion": "Defensa",
+   "Nombre": "Migueli",
+   "Dorsal": "3",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/399.-migueli-m.-bernardo-1974_0_0.jpg"
+ },
+ {
+   "Eurocopa": 1980,
+   "Posicion": "Defensa",
+   "Nombre": "Olmo",
+   "Dorsal": "15",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/412.-olmo-1977.jpg"
+ },
+ {
+   "Eurocopa": 1980,
+   "Posicion": "Defensa",
+   "Nombre": "Tendillo",
+   "Dorsal": "20",
+   "Equipo": "Valencia",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/455.-tendillo-1980_0.jpg"
+ },
+ {
+   "Eurocopa": 1980,
+   "Posicion": "Defensa",
+   "Nombre": "Uría",
+   "Dorsal": "5",
+   "Equipo": "Sporting",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/392.-uria-1973.jpg"
+ },
+ {
+   "Eurocopa": 1984,
+   "Posicion": "Defensa",
+   "Nombre": "Camacho",
+   "Dorsal": "3",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/401.-camacho-1975.jpg"
+ },
+ {
+   "Eurocopa": 1984,
+   "Posicion": "Defensa",
+   "Nombre": "Goikoetxea",
+   "Dorsal": "5",
+   "Equipo": "Athletic",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/476.-a.-goicoechea-1983.jpg"
+ },
+ {
+   "Eurocopa": 1984,
+   "Posicion": "Defensa",
+   "Nombre": "Gordillo",
+   "Dorsal": "6",
+   "Equipo": "Betis",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/429.-gordillo-1978.jpg"
+ },
+ {
+   "Eurocopa": 1984,
+   "Posicion": "Defensa",
+   "Nombre": "Julio Alberto",
+   "Dorsal": "14",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/484.-julio-alberto-1984.jpg"
+ },
+ {
+   "Eurocopa": 1984,
+   "Posicion": "Defensa",
+   "Nombre": "Maceda",
+   "Dorsal": "4",
+   "Equipo": "Sporting",
+   "Goles": "2",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/460.-maceda-1981.jpg"
+ },
+ {
+   "Eurocopa": 1984,
+   "Posicion": "Defensa",
+   "Nombre": "Salva",
+   "Dorsal": "12",
+   "Equipo": "Zaragoza",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/481.-salva-1983.jpg"
+ },
+ {
+   "Eurocopa": 1984,
+   "Posicion": "Defensa",
+   "Nombre": "Urquiaga",
+   "Dorsal": "2",
+   "Equipo": "Athletic",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/453.-urquiaga-1980.jpg"
+ },
+ {
+   "Eurocopa": 1988,
+   "Posicion": "Defensa",
+   "Nombre": "Andrinúa",
+   "Dorsal": "4",
+   "Equipo": "Athletic",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/504.-andrinua-1987_0.jpg"
+ },
+ {
+   "Eurocopa": 1988,
+   "Posicion": "Defensa",
+   "Nombre": "Camacho",
+   "Dorsal": "3",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/401.-camacho-1975.jpg"
+ },
+ {
+   "Eurocopa": 1988,
+   "Posicion": "Defensa",
+   "Nombre": "Diego Rodríguez",
+   "Dorsal": "12",
+   "Equipo": "Betis",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/514.-diego-rodrguez-1988.jpg"
+ },
+ {
+   "Eurocopa": 1988,
+   "Posicion": "Defensa",
+   "Nombre": "Miquel Soler",
+   "Dorsal": "18",
+   "Equipo": "Espanyol",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/505.-soler-1987.jpg"
+ },
+ {
+   "Eurocopa": 1988,
+   "Posicion": "Defensa",
+   "Nombre": "Sanchís",
+   "Dorsal": "8",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/502.-sanchis-ii-1986.jpg"
+ },
+ {
+   "Eurocopa": 1988,
+   "Posicion": "Defensa",
+   "Nombre": "Tomás Reñones",
+   "Dorsal": "2",
+   "Equipo": "Atlético",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/495.-tomas-1985.jpg"
+ },
+ {
+   "Eurocopa": 1996,
+   "Posicion": "Defensa",
+   "Nombre": "Abelardo",
+   "Dorsal": "5",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/550.-abelardo-1991.jpg"
+ },
+ {
+   "Eurocopa": 1996,
+   "Posicion": "Defensa",
+   "Nombre": "Alkorta",
+   "Dorsal": "4",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/535.-alkorta-1990.jpg"
+ },
+ {
+   "Eurocopa": 1996,
+   "Posicion": "Defensa",
+   "Nombre": "Belsué",
+   "Dorsal": "3",
+   "Equipo": "Zaragoza",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/585.-belsue-1994_0.jpg"
+ },
+ {
+   "Eurocopa": 1996,
+   "Posicion": "Defensa",
+   "Nombre": "Hierro",
+   "Dorsal": "6",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/524.-f.-hierro-1989.jpg"
+ },
+ {
+   "Eurocopa": 1996,
+   "Posicion": "Defensa",
+   "Nombre": "Juan Manuel López",
+   "Dorsal": "2",
+   "Equipo": "Atlético",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/561.-lopez-1992.jpg"
+ },
+ {
+   "Eurocopa": 1996,
+   "Posicion": "Defensa",
+   "Nombre": "Nadal",
+   "Dorsal": "20",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/555.-nadal-1991.jpg"
+ },
+ {
+   "Eurocopa": 1996,
+   "Posicion": "Defensa",
+   "Nombre": "Otero",
+   "Dorsal": "16",
+   "Equipo": "Valencia",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/575.-otero-1993.jpg"
+ },
+ {
+   "Eurocopa": 1996,
+   "Posicion": "Defensa",
+   "Nombre": "Sergi Barjuán",
+   "Dorsal": "12",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/581.-sergi-1994_0.jpg"
+ },
+ {
+   "Eurocopa": 2000,
+   "Posicion": "Defensa",
+   "Nombre": "Abelardo",
+   "Dorsal": "5",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/550.-abelardo-1991.jpg"
+ },
+ {
+   "Eurocopa": 2000,
+   "Posicion": "Defensa",
+   "Nombre": "Aranzábal",
+   "Dorsal": "3",
+   "Equipo": "Real Sociedad",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/591.-aranzabal-1995.jpg"
+ },
+ {
+   "Eurocopa": 2000,
+   "Posicion": "Defensa",
+   "Nombre": "Hierro",
+   "Dorsal": "6",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/524.-f.-hierro-1989.jpg"
+ },
+ {
+   "Eurocopa": 2000,
+   "Posicion": "Defensa",
+   "Nombre": "Míchel Salgado",
+   "Dorsal": "2",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/607.-salgado-1998_0.jpg"
+ },
+ {
+   "Eurocopa": 2000,
+   "Posicion": "Defensa",
+   "Nombre": "Paco Jémez",
+   "Dorsal": "18",
+   "Equipo": "Zaragoza",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/612.-paco-1998.jpg"
+ },
+ {
+   "Eurocopa": 2000,
+   "Posicion": "Defensa",
+   "Nombre": "Sergi Barjuán",
+   "Dorsal": "12",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/581.-sergi-1994_0.jpg"
+ },
+ {
+   "Eurocopa": 2000,
+   "Posicion": "Defensa",
+   "Nombre": "Velasco",
+   "Dorsal": "19",
+   "Equipo": "Celta",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/627.-velasco-2000-1.jpg"
+ },
+ {
+   "Eurocopa": 2004,
+   "Posicion": "Defensa",
+   "Nombre": "Albelda",
+   "Dorsal": "4",
+   "Equipo": "Valencia",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/651.-albelda-2001.jpg"
+ },
+ {
+   "Eurocopa": 2004,
+   "Posicion": "Defensa",
+   "Nombre": "Capdevila",
+   "Dorsal": "2",
+   "Equipo": "Deportivo",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/664.-capdevila-2002.jpg"
+ },
+ {
+   "Eurocopa": 2004,
+   "Posicion": "Defensa",
+   "Nombre": "César Martín",
+   "Dorsal": "18",
+   "Equipo": "Deportivo",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/625.-cesar-1999.jpg"
+ },
+ {
+   "Eurocopa": 2004,
+   "Posicion": "Defensa",
+   "Nombre": "Gabri",
+   "Dorsal": "12",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/666.-gabri-2003_0.jpg"
+ },
+ {
+   "Eurocopa": 2004,
+   "Posicion": "Defensa",
+   "Nombre": "Helguera",
+   "Dorsal": "6",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/617.-helguera-1998_0.jpg"
+ },
+ {
+   "Eurocopa": 2004,
+   "Posicion": "Defensa",
+   "Nombre": "Juanito",
+   "Dorsal": "22",
+   "Equipo": "Betis",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/660.-juanito-2002_0.jpg"
+ },
+ {
+   "Eurocopa": 2004,
+   "Posicion": "Defensa",
+   "Nombre": "Marchena",
+   "Dorsal": "3",
+   "Equipo": "Valencia",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/661.-marchena-2002.jpg"
+ },
+ {
+   "Eurocopa": 2004,
+   "Posicion": "Defensa",
+   "Nombre": "Puyol",
+   "Dorsal": "5",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/642.-puyol-2000.jpg"
+ },
+ {
+   "Eurocopa": 2004,
+   "Posicion": "Defensa",
+   "Nombre": "Raúl Bravo",
+   "Dorsal": "15",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/659.-bravo-2002.jpg"
+ },
+ {
+   "Eurocopa": 2008,
+   "Posicion": "Defensa",
+   "Nombre": "Albiol",
+   "Dorsal": "2",
+   "Equipo": "Valencia",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/695.-albiol-2007_0.jpg"
+ },
+ {
+   "Eurocopa": 2008,
+   "Posicion": "Defensa",
+   "Nombre": "Arbeloa",
+   "Dorsal": "18",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/698.-arbeola-2008_0.jpg"
+ },
+ {
+   "Eurocopa": 2008,
+   "Posicion": "Defensa",
+   "Nombre": "Capdevila",
+   "Dorsal": "11",
+   "Equipo": "Villarreal",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/664.-capdevila-2002.jpg"
+ },
+ {
+   "Eurocopa": 2008,
+   "Posicion": "Defensa",
+   "Nombre": "Fernando Navarro",
+   "Dorsal": "3",
+   "Equipo": "Mallorca",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/702.-fernando-navarro-2008_0.jpg"
+ },
+ {
+   "Eurocopa": 2008,
+   "Posicion": "Defensa",
+   "Nombre": "Juanito",
+   "Dorsal": "20",
+   "Equipo": "Betis",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/660.-juanito-2002_0.jpg"
+ },
+ {
+   "Eurocopa": 2008,
+   "Posicion": "Defensa",
+   "Nombre": "Marchena",
+   "Dorsal": "4",
+   "Equipo": "Valencia",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/661.-marchena-2002.jpg"
+ },
+ {
+   "Eurocopa": 2008,
+   "Posicion": "Defensa",
+   "Nombre": "Puyol",
+   "Dorsal": "5",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/642.-puyol-2000.jpg"
+ },
+ {
+   "Eurocopa": 2008,
+   "Posicion": "Defensa",
+   "Nombre": "Sergio Ramos",
+   "Dorsal": "15",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/678.-sergio-ramos-2005_0_0.jpg"
+ },
+ {
+   "Eurocopa": 2012,
+   "Posicion": "Defensa",
+   "Nombre": "Alba",
+   "Dorsal": "18",
+   "Equipo": "Valencia",
+   "Goles": "1",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/jordi-alba.jpg"
+ },
+ {
+   "Eurocopa": 2012,
+   "Posicion": "Defensa",
+   "Nombre": "Albiol",
+   "Dorsal": "2",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/695.-albiol-2007_0.jpg"
+ },
+ {
+   "Eurocopa": 2012,
+   "Posicion": "Defensa",
+   "Nombre": "Arbeloa",
+   "Dorsal": "17",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/698.-arbeola-2008_0.jpg"
+ },
+ {
+   "Eurocopa": 2012,
+   "Posicion": "Defensa",
+   "Nombre": "Javi Martínez",
+   "Dorsal": "4",
+   "Equipo": "Athletic",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/javi_martinez_k3011_015.jpg"
+ },
+ {
+   "Eurocopa": 2012,
+   "Posicion": "Defensa",
+   "Nombre": "Juanfran",
+   "Dorsal": "5",
+   "Equipo": "Atlético",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/juanfran.jpg"
+ },
+ {
+   "Eurocopa": 2012,
+   "Posicion": "Defensa",
+   "Nombre": "Piqué",
+   "Dorsal": "3",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/707.-gerard-pique-2009.jpg"
+ },
+ {
+   "Eurocopa": 2012,
+   "Posicion": "Defensa",
+   "Nombre": "Sergio Ramos",
+   "Dorsal": "15",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/678.-sergio-ramos-2005_0_0.jpg"
+ },
+ {
+   "Eurocopa": 2016,
+   "Posicion": "Defensa",
+   "Nombre": "Alba",
+   "Dorsal": "18",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/jordi-alba.jpg"
+ },
+ {
+   "Eurocopa": 2016,
+   "Posicion": "Defensa",
+   "Nombre": "Azpilicueta",
+   "Dorsal": "2",
+   "Equipo": "Chelsea",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/azpilicueta_0.jpg"
+ },
+ {
+   "Eurocopa": 2016,
+   "Posicion": "Defensa",
+   "Nombre": "Bartra",
+   "Dorsal": "4",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/marc-bartra-ficha-internacionales-359x500.jpg"
+ },
+ {
+   "Eurocopa": 2016,
+   "Posicion": "Defensa",
+   "Nombre": "Bellerín",
+   "Dorsal": "12",
+   "Equipo": "Arsenal",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/bellerin_busto_r205_050_b_7_n.jpg"
+ },
+ {
+   "Eurocopa": 2016,
+   "Posicion": "Defensa",
+   "Nombre": "Juanfran",
+   "Dorsal": "16",
+   "Equipo": "Atlético",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/juanfran.jpg"
+ },
+ {
+   "Eurocopa": 2016,
+   "Posicion": "Defensa",
+   "Nombre": "Piqué",
+   "Dorsal": "3",
+   "Equipo": "Barcelona",
+   "Goles": "1",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/707.-gerard-pique-2009.jpg"
+ },
+ {
+   "Eurocopa": 2016,
+   "Posicion": "Defensa",
+   "Nombre": "San José",
+   "Dorsal": "17",
+   "Equipo": "Athletic",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/424.-san-jose-1977.jpg"
+ },
+ {
+   "Eurocopa": 2016,
+   "Posicion": "Defensa",
+   "Nombre": "Sergio Ramos",
+   "Dorsal": "15",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/678.-sergio-ramos-2005_0_0.jpg"
+ },
+ {
+   "Eurocopa": 2021,
+   "Posicion": "Defensa",
+   "Nombre": "Alba",
+   "Dorsal": "nd",
+   "Equipo": "Barcelona",
+   "Goles": "nd",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/jordi-alba.jpg"
+ },
+ {
+   "Eurocopa": 2021,
+   "Posicion": "Defensa",
+   "Nombre": "Albiol",
+   "Dorsal": "nd",
+   "Equipo": "Villarreal",
+   "Goles": "nd",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/695.-albiol-2007_0.jpg"
+ },
+ {
+   "Eurocopa": 2021,
+   "Posicion": "Defensa",
+   "Nombre": "Aymeric Laporte",
+   "Dorsal": "nd",
+   "Equipo": "Manchester City",
+   "Goles": "nd",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/laporte_ficha.png"
+ },
+ {
+   "Eurocopa": 2021,
+   "Posicion": "Defensa",
+   "Nombre": "Azpilicueta",
+   "Dorsal": "nd",
+   "Equipo": "Chelsea",
+   "Goles": "nd",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/azpilicueta_0.jpg"
+ },
+ {
+   "Eurocopa": 2021,
+   "Posicion": "Defensa",
+   "Nombre": "Diego Llorente",
+   "Dorsal": "nd",
+   "Equipo": "Leeds",
+   "Goles": "nd",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/llorente_busto_r205_069_b_y_n.jpg"
+ },
+ {
+   "Eurocopa": 2021,
+   "Posicion": "Defensa",
+   "Nombre": "Èric García",
+   "Dorsal": "nd",
+   "Equipo": "Manchester City",
+   "Goles": "nd",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/eric-garcia-0609.jpg"
+ },
+ {
+   "Eurocopa": 2021,
+   "Posicion": "Defensa",
+   "Nombre": "Gayà",
+   "Dorsal": "nd",
+   "Equipo": "Valencia",
+   "Goles": "nd",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/gaya.jpg"
+ },
+ {
+   "Eurocopa": 2021,
+   "Posicion": "Defensa",
+   "Nombre": "Marcos Llorente",
+   "Dorsal": "nd",
+   "Equipo": "Atlético",
+   "Goles": "nd",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/llorente_busto_r205_069_b_y_n.jpg"
+ },
+ {
+   "Eurocopa": 2021,
+   "Posicion": "Defensa",
+   "Nombre": "Pau Torres",
+   "Dorsal": "nd",
+   "Equipo": "Villarreal",
+   "Goles": "nd",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/pau_torres.jpg"
+ }
+] }

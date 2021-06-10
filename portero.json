@@ -1,0 +1,291 @@
+{
+"data": [
+ {
+   "Eurocopa": 1964,
+   "Posicion": "Portero",
+   "Nombre": "Iríbar",
+   "Dorsal": "1",
+   "Equipo": "Athletic",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/310.-iribar-1964_0.jpg"
+ },
+ {
+   "Eurocopa": 1964,
+   "Posicion": "Portero",
+   "Nombre": "Sadurní",
+   "Dorsal": "nd",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/303.-sadurni-1963.jpg"
+ },
+ {
+   "Eurocopa": 1980,
+   "Posicion": "Portero",
+   "Nombre": "Arconada",
+   "Dorsal": "1",
+   "Equipo": "Real Sociedad",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/414.-arconada-1977.jpg"
+ },
+ {
+   "Eurocopa": 1980,
+   "Posicion": "Portero",
+   "Nombre": "Artola",
+   "Dorsal": "22",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/12.-artola-1920.jpg"
+ },
+ {
+   "Eurocopa": 1980,
+   "Posicion": "Portero",
+   "Nombre": "Urruti",
+   "Dorsal": "13",
+   "Equipo": "Espanyol",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/428.-urruti-1978.jpg"
+ },
+ {
+   "Eurocopa": 1984,
+   "Posicion": "Portero",
+   "Nombre": "Arconada",
+   "Dorsal": "1",
+   "Equipo": "Real Sociedad",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/414.-arconada-1977.jpg"
+ },
+ {
+   "Eurocopa": 1984,
+   "Posicion": "Portero",
+   "Nombre": "Buyo",
+   "Dorsal": "13",
+   "Equipo": "Sevilla",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/482.-buyo-1983.jpg"
+ },
+ {
+   "Eurocopa": 1984,
+   "Posicion": "Portero",
+   "Nombre": "Zubizarreta",
+   "Dorsal": "20",
+   "Equipo": "Athletic",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/488.-zubizarreta-1985.jpg"
+ },
+ {
+   "Eurocopa": 1988,
+   "Posicion": "Portero",
+   "Nombre": "Buyo",
+   "Dorsal": "13",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/482.-buyo-1983.jpg"
+ },
+ {
+   "Eurocopa": 1988,
+   "Posicion": "Portero",
+   "Nombre": "Zubizarreta",
+   "Dorsal": "1",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/488.-zubizarreta-1985.jpg"
+ },
+ {
+   "Eurocopa": 1996,
+   "Posicion": "Portero",
+   "Nombre": "Cañizares",
+   "Dorsal": "13",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/577.-canizares-1993.jpg"
+ },
+ {
+   "Eurocopa": 1996,
+   "Posicion": "Portero",
+   "Nombre": "Molina",
+   "Dorsal": "22",
+   "Equipo": "Atlético",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/593.-molina-1996.jpg"
+ },
+ {
+   "Eurocopa": 1996,
+   "Posicion": "Portero",
+   "Nombre": "Zubizarreta",
+   "Dorsal": "1",
+   "Equipo": "Valencia",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/488.-zubizarreta-1985.jpg"
+ },
+ {
+   "Eurocopa": 2000,
+   "Posicion": "Portero",
+   "Nombre": "Cañizares",
+   "Dorsal": "1",
+   "Equipo": "Valencia",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/577.-canizares-1993.jpg"
+ },
+ {
+   "Eurocopa": 2000,
+   "Posicion": "Portero",
+   "Nombre": "Casillas",
+   "Dorsal": "13",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/635.-casillas-2000.jpg"
+ },
+ {
+   "Eurocopa": 2000,
+   "Posicion": "Portero",
+   "Nombre": "Molina",
+   "Dorsal": "22",
+   "Equipo": "Atlético",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/593.-molina-1996.jpg"
+ },
+ {
+   "Eurocopa": 2004,
+   "Posicion": "Portero",
+   "Nombre": "Aranzubia",
+   "Dorsal": "13",
+   "Equipo": "Athletic",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/670.-aranzubia-2004_0.jpg"
+ },
+ {
+   "Eurocopa": 2004,
+   "Posicion": "Portero",
+   "Nombre": "Cañizares",
+   "Dorsal": "1",
+   "Equipo": "Valencia",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/577.-canizares-1993.jpg"
+ },
+ {
+   "Eurocopa": 2004,
+   "Posicion": "Portero",
+   "Nombre": "Casillas",
+   "Dorsal": "23",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/635.-casillas-2000.jpg"
+ },
+ {
+   "Eurocopa": 2008,
+   "Posicion": "Portero",
+   "Nombre": "Casillas",
+   "Dorsal": "1",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/635.-casillas-2000.jpg"
+ },
+ {
+   "Eurocopa": 2008,
+   "Posicion": "Portero",
+   "Nombre": "Palop",
+   "Dorsal": "13",
+   "Equipo": "Sevilla",
+   "Goles": "0",
+   "Foto": "nd"
+ },
+ {
+   "Eurocopa": 2008,
+   "Posicion": "Portero",
+   "Nombre": "Reina",
+   "Dorsal": "23",
+   "Equipo": "Liverpool",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/682.-reina-2005.jpg"
+ },
+ {
+   "Eurocopa": 2012,
+   "Posicion": "Portero",
+   "Nombre": "Casillas",
+   "Dorsal": "1",
+   "Equipo": "Real Madrid",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/635.-casillas-2000.jpg"
+ },
+ {
+   "Eurocopa": 2012,
+   "Posicion": "Portero",
+   "Nombre": "Reina",
+   "Dorsal": "23",
+   "Equipo": "Liverpool",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/682.-reina-2005.jpg"
+ },
+ {
+   "Eurocopa": 2012,
+   "Posicion": "Portero",
+   "Nombre": "Víctor Valdés",
+   "Dorsal": "12",
+   "Equipo": "Barcelona",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/victor_valdes_k3011_005.jpg"
+ },
+ {
+   "Eurocopa": 2016,
+   "Posicion": "Portero",
+   "Nombre": "Casillas",
+   "Dorsal": "1",
+   "Equipo": "Oporto.",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/635.-casillas-2000.jpg"
+ },
+ {
+   "Eurocopa": 2016,
+   "Posicion": "Portero",
+   "Nombre": "De Gea",
+   "Dorsal": "13",
+   "Equipo": "Manchester United",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/de-gea-internacionales.jpg"
+ },
+ {
+   "Eurocopa": 2016,
+   "Posicion": "Portero",
+   "Nombre": "Sergio Rico",
+   "Dorsal": "23",
+   "Equipo": "Sevilla",
+   "Goles": "0",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/sergio-rico-r086_238.jpg"
+ },
+ {
+   "Eurocopa": 2021,
+   "Posicion": "Portero",
+   "Nombre": "De Gea",
+   "Dorsal": "nd",
+   "Equipo": "Manchester United",
+   "Goles": "nd",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/de-gea-internacionales.jpg"
+ },
+ {
+   "Eurocopa": 2021,
+   "Posicion": "Portero",
+   "Nombre": "Kepa",
+   "Dorsal": "nd",
+   "Equipo": "Chelsea",
+   "Goles": "nd",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/kepa_busto_t101_956.jpg"
+ },
+ {
+   "Eurocopa": 2021,
+   "Posicion": "Portero",
+   "Nombre": "Robert Sánchez",
+   "Dorsal": "nd",
+   "Equipo": "Brighton & Hove Albion",
+   "Goles": "nd",
+   "Foto": "nd"
+ },
+ {
+   "Eurocopa": 2021,
+   "Posicion": "Portero",
+   "Nombre": "Unai Simón",
+   "Dorsal": "nd",
+   "Equipo": "Athletic",
+   "Goles": "nd",
+   "Foto": "https://www.sefutbol.com/sites/default/files/img-internacionales/unai_242x354.jpg"
+ }
+] }
